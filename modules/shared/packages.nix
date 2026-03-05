@@ -78,7 +78,7 @@ with pkgs; [
   kubectl # Kubernetes CLI
 
   # L
-  linear-cli # Linear project management CLI
+  # linear-cli # Linear project management CLI
   lnav # Log file navigator
   libfido2 # FIDO2 library
 
