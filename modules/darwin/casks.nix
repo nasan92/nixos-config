@@ -6,10 +6,10 @@ _:
   "visual-studio-code"
   "iterm2"
   "postman"
-  "cursor"
+  #"cursor"
 
   # Productivity Tools
-  "raycast"
+  #"raycast"
 
   # Browsers
   "google-chrome"
