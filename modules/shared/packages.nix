@@ -89,7 +89,7 @@ with pkgs; [
   # N
   ncurses # Terminal control library with terminfo database
   ncdu # Disk space utility
-  neofetch # System information tool
+  fastfetch # System information tool (maintained neofetch replacement)
   ngrok # Secure tunneling service
   nodejs_20 # Node.js JavaScript runtime (includes npm)
 
