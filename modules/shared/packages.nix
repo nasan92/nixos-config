@@ -52,12 +52,12 @@ with pkgs; [
   fzf # Fuzzy finder
 
   # G
-  go # Go
-  gcc # GNU Compiler Collection
-  gh # GitHub CLI
-  glow # Markdown renderer for terminal
-  gnupg # GNU Privacy Guard
-  gopls # Go language server
+  # go # Go
+  # gcc # GNU Compiler Collection
+  # gh # GitHub CLI
+  # glow # Markdown renderer for terminal
+  # gnupg # GNU Privacy Guard
+  # gopls # Go language server
 
   # H
   htop # Interactive process viewer
@@ -65,12 +65,12 @@ with pkgs; [
 
   # I
   iftop # Network bandwidth monitor
-  imagemagick # Image manipulation toolkit
-  intelephense # PHP LSP server
+  # imagemagick # Image manipulation toolkit
+  # intelephense # PHP LSP server
 
   # J
-  jetbrains.phpstorm # PHP IDE
-  jpegoptim # JPEG optimizer
+  # jetbrains.phpstorm # PHP IDE
+  # jpegoptim # JPEG optimizer
   jq # JSON processor
 
   # K
@@ -83,57 +83,57 @@ with pkgs; [
   libfido2 # FIDO2 library
 
   # M
-  myPHP # Custom PHP with extensions
-  myPython # Custom Python with packages
+  # myPHP # Custom PHP with extensions
+  # myPython # Custom Python with packages
 
   # N
   ncurses # Terminal control library with terminfo database
   ncdu # Disk space utility
   fastfetch # System information tool (maintained neofetch replacement)
-  ngrok # Secure tunneling service
-  nodejs_20 # Node.js JavaScript runtime (includes npm)
+  # ngrok # Secure tunneling service
+  # nodejs_20 # Node.js JavaScript runtime (includes npm)
 
   # O
   openssh # SSH client and server
 
   # P
-  pandoc # Document converter
-  php82Packages.composer # PHP dependency manager
-  deployer # PHP deployment tool
-  php82Packages.php-cs-fixer # PHP code style fixer
-  php82Packages.phpstan # PHP static analysis tool
-  phpactor # PHP language server with better refactoring support
-  phpunit # PHP testing framework
-  pngquant # PNG compression tool
+  # pandoc # Document converter
+  # php82Packages.composer # PHP dependency manager
+  # deployer # PHP deployment tool
+  # php82Packages.php-cs-fixer # PHP code style fixer
+  # php82Packages.phpstan # PHP static analysis tool
+  # phpactor # PHP language server with better refactoring support
+  # phpunit # PHP testing framework
+  # pngquant # PNG compression tool
 
   # Q
-  qt5.qtbase # Qt5 base library with platform plugins
+  # qt5.qtbase # Qt5 base library with platform plugins
 
   # R
-  ripgrep # Fast text search tool
-  repomix # AI tooling
+  # ripgrep # Fast text search tool
+  # repomix # AI tooling
 
   # S
-  slack # Team communication app
-  sqlite # SQL database engine
+  # slack # Team communication app
+  # sqlite # SQL database engine
 
   # T
   terraform # Infrastructure as code tool
   terraform-ls # Terraform language server
   tflint # Terraform linter
-  tmux # Terminal multiplexer
+  # tmux # Terminal multiplexer
   tree # Directory tree viewer
 
   # U
-  unrar # RAR archive extractor
-  unzip # ZIP archive extractor
+  # unrar # RAR archive extractor
+  # unzip # ZIP archive extractor
   uv # Python package installer
 
   # W
   wget # File downloader
 
   # Z
-  zed-editor
-  zip # ZIP archive creator
+  # zed-editor
+  # zip # ZIP archive creator
   zsh-powerlevel10k # Zsh theme
 ] ++ myFonts
